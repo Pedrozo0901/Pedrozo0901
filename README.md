@@ -15,7 +15,7 @@ Working as a developer at Digix <br>- 💻 I am a programming and problem solvin
 <h3 align="left">✉️  Contact</h3>
 
 
- [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:felipepedrozoribeiro@hotmail.com)
+ [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto: felipepedrozoribeiro@hotmail.com)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5567984070366)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pedrozo-234076273/)
 
